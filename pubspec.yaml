@@ -1,0 +1,14 @@
+name: logger_dart
+description: A simple logger class for Dart applications.
+version: 0.1.0
+homepage: https://github.com/fhassis/logger-dart
+
+environment:
+  sdk: '>=2.15.0 <3.0.0'
+
+
+dependencies:
+  intl: ^0.17.0
+
+dev_dependencies:
+  lints: ^1.0.0
